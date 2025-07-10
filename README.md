@@ -12,7 +12,9 @@ Service Bus 12c**
   <!-- Spring Framework -->
   <img src="image/spring-logo.svg" alt="Spring" title="Spring" width="110" height="40"/>
   <!-- Micronaut -->
-  <img src="image/micronaut-logo-white.svg" alt="Micronaut" title="Micronaut" width="110" height="40"/>
+  <span style="background-color: white; display: inline-flex; align-items: center; justify-content: center; padding: 2px; border-radius: 4px; height: 40px; box-sizing: border-box;">
+    <img src="image/micronaut_horizontal_black.png" alt="Micronaut" title="Micronaut" width="110" height="40"/>
+  </span>
   <!-- Quarkus -->
   <img src="image/quarkus-icon.svg" alt="Quarkus" title="Quarkus" width="40" height="40"/>
   <!-- Apache Maven -->
@@ -20,7 +22,7 @@ Service Bus 12c**
   <!-- Gradle -->
   <img src="image/LOGO-GRADLE-STACK_CMYK.svg" alt="Gradle" title="Gradle" width="40" height="40"/>
   <!-- PostgreSQL -->
-  <img src="image/postgresql-logo.svg" alt="PostgreSQL" title="PostgreSQL" width="100" height="40"/>
+  <img src="image/postgresql-logo.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
   <!-- ArangoDB -->
   <img src="image/arangodb.svg" alt="Arangodb" title="Arangodb" width="110" height="40"/>
   <!-- Docker -->
@@ -28,7 +30,9 @@ Service Bus 12c**
   <!-- Kubernetes -->
   <img src="image/kubernetes-logo.svg" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
   <!-- Apache Kafka -->
-  <img src="image/kafka-logo.svg" alt="Kafka" title="Apache Kafka" width="110" height="40"/>
+  <span style="background-color: white; display: inline-flex; align-items: center; justify-content: center; padding: 2px; border-radius: 4px; height: 40px; box-sizing: border-box;">
+   <img src="image/kafka-logo.svg" alt="Kafka" title="Apache Kafka" width="110" height="40"/>
+  </span>
   <!-- Camunda -->
   <img src="image/Camunda_Black-Orange.svg" alt="Camunda" title="Camunda" width="40" height="40"/>
   <!-- GraphQL -->
