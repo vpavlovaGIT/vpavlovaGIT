@@ -65,8 +65,10 @@ Service Bus 12c**
 ## 📫 Контакты
 
 <p align="left"> <a href="https://www.github.com/vpavlovaGIT" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.gitlab.com/vpavlova" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="undefined" title="undefined" /> </picture> </a></p>
-- Email: vikkkapaw@mail.ru
-- Telegram: [@vikkkapaw](https://t.me/vikkkapaw)
+<div style="line-height: 1.8; font-family: Arial, sans-serif;">
+  <div>✉️ <strong>Email:</strong> vikkkapaw@mail.ru</div>
+  <div>📱 <strong>Telegram:</strong> <a href="https://t.me/vikkkapaw" style="color: #0088cc; text-decoration: none;">@vikkkapaw</a></div>
+</div>
 
 
   
