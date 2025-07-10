@@ -12,8 +12,8 @@ Service Bus 12c**
   <!-- Spring Framework -->
   <img src="image/spring-logo.svg" alt="Spring" title="Spring" width="110" height="40"/>
   <!-- Micronaut -->
-  <span style="background-color: white; display: inline-flex; align-items: center; justify-content: center; padding: 2px; border-radius: 4px; height: 40px; box-sizing: border-box;">
-    <img src="image/micronaut_horizontal_black.png" alt="Micronaut" title="Micronaut" width="110" height="40"/>
+  <span style="background-color: black; display: inline-flex; align-items: center; justify-content: center; padding: 2px; border-radius: 4px; height: 40px; box-sizing: border-box;">
+   <img src="image/micronaut-logo-white.svg" alt="Micronaut" title="Micronaut" width="110" height="40"/>
   </span>
   <!-- Quarkus -->
   <img src="image/quarkus-icon.svg" alt="Quarkus" title="Quarkus" width="40" height="40"/>
@@ -44,7 +44,7 @@ Service Bus 12c**
   <!-- Git -->
   <img src="image/git-icon-logo.svg" alt="Git" title="Git" width="40" height="40"/>
   <!-- Jira -->
-  <img src="image/jira-original-wordmark-logo.svg" alt="Jira" title="Jira" width="110" height="40"/>
+  <img src="image/jira-original-wordmark-logo.svg" alt="Jira" title="Jira" width="40" height="40"/>
 </div>
 
 <p align="center">
